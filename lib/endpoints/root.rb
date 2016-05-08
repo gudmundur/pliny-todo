@@ -1,7 +1,7 @@
 module Endpoints
   class Root < Base
     get "/" do
-      "hello."
+      "Hello GitHub Satellite!"
     end
   end
 end
